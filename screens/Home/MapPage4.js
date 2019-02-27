@@ -53,7 +53,7 @@ export default class MapPage4 extends Component {
           }}
           query={{
             // available options: https://developers.google.com/places/web-service/autocomplete
-            key: 'AIzaSyC9k_UrdiBPL9-pWM8TNv-Q3IfNIZ8kzKQ',
+            key: 'BAUAIzaSyC9k_UrdiBPL9-pWM8TNv-Q3IfNIZ8kzKQ',
             language: 'en', // language of the results
             types: 'address', // default: 'geocode'
           }}
